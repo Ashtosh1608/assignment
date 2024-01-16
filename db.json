@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ashtosh kumar",
+      "username": "ash",
+      "email": "ashtosh@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+      
+    },
+    {
+      "id": 2,
+      "name": "nitish kumar",
+      "username": "nitish",
+      "email": "nitish@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "krishna bhabhat",
+      "username": "krishna",
+      "email": "krishna@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "ritesh tiwari",
+      "username": "ritesh",
+      "email": "ritesh@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+      
+    },
+    {
+      "id": 5,
+      "name": "nikhl sharma",
+      "username": "nikhil",
+      "email": "nikhil@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+      
+    },
+    {
+      "id": 6,
+      "name": "gaurab gupta",
+      "username": "gaurab",
+      "email": "gaurab@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "Ashtosh 2",
+      "username": "ash2",
+      "email": "ashtosh2@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "name": "Ashtosh 3",
+      "username": "ash3",
+      "email": "ashtosh3@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "name": "Ashtosh 4",
+      "username": "ash4",
+      "email": "ashtosh4@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "name": "Ashtosh 5",
+      "username": "ash5",
+      "email": "ashtosh5@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    }
+  ]
+}
